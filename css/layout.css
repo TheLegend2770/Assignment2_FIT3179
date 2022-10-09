@@ -1,0 +1,51 @@
+
+html,
+body {
+    background-color: #e5e9b9;
+}
+
+h1 {
+    font-family: 'Lucida Sans';
+    text-align: center;
+    color: #d2b200ce;
+    font-size: 40px;
+    
+}
+
+h3 {
+    font-family: 'Lucida Sans';
+    text-align: center;
+    color: #d2b200ce;
+    font-size: 20px;
+   
+}
+
+#milk_consumption_map {
+	top:100px;
+	bottom: 100px; 
+	left: 100px;
+	right: 100px;
+}
+
+p {
+    color: #000000ce;
+    font-family: 'Lucida Sans';
+    font-size: 16px;    
+}
+
+.pure-u-1-3 {
+    margin-top: 50px;
+    height: 50vw;
+}
+
+
+#text_div {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+
+#bar_chart {
+    width: 90%;
+    height: 90%
+}
