@@ -1,0 +1,10 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "A scatterplot showing horsepower and miles per gallons for various cars.",
+  "data": {"url": "https://raw.githubusercontent.com/TheLegend2770/Assignment2_FIT3179/main/data/cheese_taste.csv"},
+  "mark": "point",
+  "encoding": {
+    "x": {"field": "Acetic", "type": "quantitative"},
+    "y": {"field": "taste", "type": "quantitative"}
+  }
+}
