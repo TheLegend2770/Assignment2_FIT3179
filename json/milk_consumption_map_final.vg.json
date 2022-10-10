@@ -3,8 +3,8 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "title": "Milk Consumption Worldwide in 2022",
-    "width": 800,
-    "height": 350,
+    "width": 700,
+    "height": 450,
     "projection": {"type": "equalEarth"},
     "data": {
         "url": "https://raw.githubusercontent.com/TheLegend2770/Week10_Homework/main/json/ne_110m.topojson",
