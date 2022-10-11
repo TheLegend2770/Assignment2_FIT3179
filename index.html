@@ -63,30 +63,32 @@
             </div>  
     </div> 
 
-        <div class="pure-u-4-5">
-            <div id="milk_consumption_map"></div>
-                <script type="text/javascript">
-                var spec2 = "json/milk_consumption_map_final.vg.json";
-                vegaEmbed('#milk_consumption_map', spec2).then(function(result) {
-                }).catch(console.error);
-                </script>
-        </div>
-
-        <div class="pure-u-1-5">
-            <div id="text_div">
-                <h3>Milk Consumption Around the world</h3>
-                    <p>
-                        The table highlights that majority of the countries that produce high
-                    quality cheeses are mostly European.  This correlates with the map, that 
-                    shows a high level of milk consumption within Europe.  This suggests
-                    that the level of a countries milk consumption correlates to the quality 
-                    of the cheese they produce.
-                    </p>
-                </div>
-            </div>
+    
     </div>
 
+<div class="pure-g">
+    <div class="pure-u-4-5">
+        <div id="milk_consumption_map"></div>
+            <script type="text/javascript">
+            var spec2 = "json/milk_consumption_map_final.vg.json";
+            vegaEmbed('#milk_consumption_map', spec2).then(function(result) {
+            }).catch(console.error);
+            </script>
+    </div>
 
+    <div class="pure-u-1-5">
+        <div id="text_div">
+            <h3>Milk Consumption Around the world</h3>
+                <p>
+                    The table highlights that majority of the countries that produce high
+                quality cheeses are mostly European.  This correlates with the map, that 
+                shows a high level of milk consumption within Europe.  This suggests
+                that the level of a countries milk consumption correlates to the quality 
+                of the cheese they produce.
+                </p>
+            </div>
+        </div>
+</div>
 
 
 </body>
