@@ -45,7 +45,12 @@ p {
 }
 
 
-#bar_chart {
+#high_bar_chart {
+    width: 50%;
+    height: 50%
+}
+
+#low_bar_chart {
     width: 50%;
     height: 50%
 }
