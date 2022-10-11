@@ -20,6 +20,15 @@ h3 {
    
 }
 
+#high_bar_chart {
+    width: 50%;
+    height: 50%
+}
+
+#low_bar_chart {
+    width: 50%;
+    height: 50%
+}
 #milk_consumption_map {
 	top:100px;
 	bottom: 100px; 
@@ -45,12 +54,3 @@ p {
 }
 
 
-#high_bar_chart {
-    width: 50%;
-    height: 50%
-}
-
-#low_bar_chart {
-    width: 50%;
-    height: 50%
-}
