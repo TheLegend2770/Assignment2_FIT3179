@@ -29,6 +29,22 @@ h3 {
     width: 50%;
     height: 50%
 }
+
+#acetic_chart {
+    width: 50%;
+    height: 50%
+}
+
+#H2S_chart {
+    width: 50%;
+    height: 50%
+}
+
+#lactic_chart {
+    width: 50%;
+    height: 50%
+}
+
 #milk_consumption_map {
 	top:100px;
 	bottom: 100px; 
