@@ -60,6 +60,9 @@
       {"field": "rating", "type": "nominal", "title": "Medal Type"},
       {"field": "rating", "aggregate":"count", "type": "quantitative", "title": "Number of Medals"}
         ]
-      }
+      },
+    "config": {
+      "background":"#e5e9b9"
+    }
     }
        
