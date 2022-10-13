@@ -63,6 +63,14 @@ p {
     height: 50vw;
 }
 
+.pure-u-1-4 {
+    margin-top: 50px;
+    height: 50vw;
+}
+.pure-u-1-5 {
+    margin-top: 50px;
+    height: 50vw;
+}
 
 #text_div {
     margin-left: 10px;
