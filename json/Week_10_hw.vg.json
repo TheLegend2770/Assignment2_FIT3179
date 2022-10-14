@@ -1,7 +1,6 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "title": {"text":"Top 10 Countries That Won Cheese Awards",
-              "subtitle":"Figure 1. Top 10 cheese producing in the world."},
+    "title": {"text":"Top 10 Countries That Won Cheese Awards"},
     
     "data": {"url": "https://raw.githubusercontent.com/TheLegend2770/Week10_Homework/main/data/world_cheese_awards_2021.csv"},    
     "params": [
