@@ -51,7 +51,7 @@
       "SILVER",
       "GOLD",
       "SUPER GOLD"],
-      "range":["#70440f", "#8f847c", "#f1f511", "#fab905"]
+      "range":["#a83e32", "#8f847c", "#f1f511", "#fab905"]
       
     }, 
     "legend":{"title": "Medal Type"}
