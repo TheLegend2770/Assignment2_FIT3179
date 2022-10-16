@@ -45,7 +45,7 @@
         },
     "color":{"field": "rating",
     "scale": {
-      "domain": ["Bronze",
+      "domain": ["BRONZE",
       "SILVER",
       "GOLD",
       "SUPER GOLD"],
