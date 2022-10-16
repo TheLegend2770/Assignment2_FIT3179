@@ -1,7 +1,10 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "title": {
-    "text":"Impact of Acetic Level on Cheese Taste",
+    "text":{
+      "text":"Impact of Acetic Level on Cheese Taste",
+    "subtitle":"Figure 5. Acetic acid seems to have no impact on cheese taste, with consistent high levels of acetic acid showing no correlation with cheese taste."
+    },
   "subtitle":"Figure 4. Impact of acetic levels on cheese taste."
   },
   "description": "A scatterplot comparing the Acetic level in cheese and its impact on taste.",
