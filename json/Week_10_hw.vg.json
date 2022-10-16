@@ -17,10 +17,10 @@
       ],
       "labels":[
       "Show All",
-      "BRONZE",
-      "SILVER",
-      "GOLD",
-      "SUPER GOLD"
+      "Bronze",
+      "Silver",
+      "Gold",
+      "Super Gold"
       ],
       "name": "Medal Selection: "
           }
@@ -45,7 +45,7 @@
         },
     "color":{"field": "rating",
     "scale": {
-      "domain": ["BRONZE",
+      "domain": ["Bronze",
       "SILVER",
       "GOLD",
       "SUPER GOLD"],
