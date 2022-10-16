@@ -1,6 +1,9 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "title": "Best Cheeses Made in Spain",
+    "title": {
+      "text":"Best Cheeses Made in Spain",
+    "subtitle":"Figure 3. Spain produces a vast range of cheeses, with these being the most popular."
+    },
     "data": {"url": "https://raw.githubusercontent.com/TheLegend2770/Week10_Homework/main/data/world_cheese_awards_2021.csv"},
     "mark": "arc",
     "transform": [
