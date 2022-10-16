@@ -2,7 +2,7 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "title": {
     "text":"Impact of H2S Level on Cheese Taste",
-  "subtitle":"Figure 6. There is a positive correlation between H2S and cheese taste."
+  "subtitle":"Figure 7. H2S has a positive impact on cheese taste."
   },
   "description":  "A scatterplot comparing the H2S level in cheese and its impact on taste.",
   "data": {"url": "https://raw.githubusercontent.com/TheLegend2770/Assignment2_FIT3179/main/data/cheese_taste.csv"},
