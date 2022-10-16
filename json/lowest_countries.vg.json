@@ -1,7 +1,8 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "title": {
-      "text":"Lowest 10 Countries That Won Cheese Awards"
+      "text":"Lowest 10 Countries That Won Cheese Awards",
+    "subtitle":"Figure 2. There seems to be a greater range of countries from different continents, with most not evening winning a gold medal.  The lowest ranked seem to come from South American Countries on average."
     },
     "data": {"url": "https://raw.githubusercontent.com/TheLegend2770/Week10_Homework/main/data/world_cheese_awards_2021.csv"},    
     "params": [
