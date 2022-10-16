@@ -2,7 +2,7 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "title": {
     "text":"Impact of H2S Level on Cheese Taste",
-  "subtitle":"Figure 4. Impact of H2S levels on cheese taste."
+  "subtitle":"Figure 6. There is a slight correlation between hydrogen sulfide and cheese taste.  The higher the hydrogen sulfide levels, the better the cheese taste."
   },
   "description":  "A scatterplot comparing the H2S level in cheese and its impact on taste.",
   "data": {"url": "https://raw.githubusercontent.com/TheLegend2770/Assignment2_FIT3179/main/data/cheese_taste.csv"},
