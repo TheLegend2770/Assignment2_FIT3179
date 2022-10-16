@@ -56,6 +56,11 @@ h3 {
 	right: 50px;
 }
 
+#cheese_type {
+    width: 50%;
+    height: 50%
+}
+
 p {
     color: #000000ce;
     font-family: 'Lucida Sans';
