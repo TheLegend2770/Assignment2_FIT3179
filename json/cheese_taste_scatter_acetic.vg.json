@@ -1,7 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": {
-    "text":{
+   "title":{
       "text":"Impact of Acetic Level on Cheese Taste",
     "subtitle":"Figure 5. Acetic acid seems to have no impact on cheese taste."
     },
