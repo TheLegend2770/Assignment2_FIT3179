@@ -59,7 +59,7 @@
                "domain": [10, 50, 100, 150, 200, 250],
                 "range": ["#DAF7A6", "#FFC300", "#FF5733", "#C70039", "#900C3F", "#581845","#17202A"]
             },
-            "legend":{"title": "Milk Consumption"}
+            "legend":{"title": "Milk Consumption (kg/capita/yr)"}
           },
           "tooltip": [
             {"field": "properties.NAME", "type": "nominal", "title": "Country"},
