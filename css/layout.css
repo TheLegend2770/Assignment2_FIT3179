@@ -24,6 +24,11 @@ h3 {
    
 }
 
+#cheese_type {
+    width: 50%;
+    height: 50%
+}
+
 #high_bar_chart {
     width: 90%;
     height: 90%
@@ -56,10 +61,7 @@ h3 {
 	right: 50px;
 }
 
-#cheese_type {
-    width: 50%;
-    height: 50%
-}
+
 
 p {
     color: #000000ce;
