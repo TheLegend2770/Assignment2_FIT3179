@@ -1,10 +1,12 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-
+    "title": "Best Cheeses Made in Spain",
     "data": {"url": "https://raw.githubusercontent.com/TheLegend2770/Week10_Homework/main/data/world_cheese_awards_2021.csv"},
     "mark": "arc",
     "transform": [
-    {"filter": "datum.rating == 'SUPER GOLD'|| datum.rating == 'GOLD'"}
+    {"filter": "datum.rating == 'SUPER GOLD'"},
+    {"filter": "datum.country == 'Spain'"},
+    {"filter": "datum.category == '5004 - Hard goats’ milk cheese plain' || datum.category == '5103 - Hard ewes’ milk cheese plain' || datum.category == '5005 - Goats’ milk cheese with additives' || datum.category == '5501 - Cheese made with the milk of more than one animal' || datum.category == '5002 - Soft goats’ milk cheese plain – mouldripened' || datum.category == '5105 - Ewes’ milk cheese with additives'"}
     
   ],
     "encoding": {
@@ -12,7 +14,8 @@
       "color": {"field": "category", "type": "nominal", "title":"Cheese Type"},
       "tooltip": [
       {"field": "category", "type": "nominal", "title": "Cheese Category"},
-      {"field": "category", "aggregate":"count", "type": "quantitative", "title": "Number Produced for Competition"}
+      {"field": "category", "aggregate":"count", "type": "quantitative", "title": "Number Produced for Competition"},
+      {"field": "country", "type": "nominal", "title": "Country"}
         ]
     }
   }
