@@ -25,33 +25,34 @@ h3 {
 }
 
 #cheese_type {
+    align-items: center;
     width: 50%;
-    height: 50%
+    height: 50%;
 }
 
 #high_bar_chart {
     width: 90%;
-    height: 90%
+    height: 90%;
 }
 
 #low_bar_chart {
     width: 90%;
-    height: 90%
+    height: 90%;
 }
 
 #acetic_chart {
     width: 50%;
-    height: 50%
+    height: 50%;
 }
 
 #H2S_chart {
     width: 50%;
-    height: 50%
+    height: 50%;
 }
 
 #lactic_chart {
     width: 50%;
-    height: 50%
+    height: 50%;
 }
 
 #milk_consumption_map {
