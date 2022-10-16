@@ -2,7 +2,7 @@
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "title": {
       "text":"Impact of Lactic Level on Cheese Taste",
-    "subtitle":"Figure 5. Impact of lactic levels on cheese taste."
+    "subtitle":"Figure 7. Higher lactic levels tends to correlate increased levels in cheese taste."
     },
     "description": "A scatterplot comparing the Lactic level in cheese and its impact on taste.",
     "data": {"url": "https://raw.githubusercontent.com/TheLegend2770/Assignment2_FIT3179/main/data/cheese_taste.csv"},
