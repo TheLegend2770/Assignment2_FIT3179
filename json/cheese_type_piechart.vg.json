@@ -17,5 +17,7 @@
       {"field": "category", "aggregate":"count", "type": "quantitative", "title": "Number Produced for Competition"},
       {"field": "country", "type": "nominal", "title": "Country"}
         ]
-    }
+    },
+      "config": {
+        "background":"#e5e9b9"}
   }
