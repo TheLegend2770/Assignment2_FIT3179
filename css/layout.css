@@ -25,7 +25,7 @@ h3 {
 }
 
 #cheese_type {
-    align-items: center;
+    font-family: 'Lucida Sans';
     width: 50%;
     height: 50%;
 }
