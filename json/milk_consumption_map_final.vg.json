@@ -2,7 +2,10 @@
 
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "title": "Milk Consumption Worldwide in 2022",
+    "title": {
+      "text":"Milk Consumption Worldwide in 2022",
+    "subtitle":"Figure 4. There is a clear pattern in the amount of milk consumed around the world. Majority of the highest milk drinking countries are in North America, Europe and Australia."
+    },
     "width": 800,
     "height": 450,
     "projection": {"type": "equalEarth"},
