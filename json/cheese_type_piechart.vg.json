@@ -14,7 +14,7 @@
   ],
     "encoding": {
       "theta": {"field": "category", "aggregate":"count", "type": "quantitative", "title":"Total Cheese Types"},
-      "color": {"field": "category", "type": "nominal", "title":"Cheese Type", "scale":{"range":["#BA5900", "#FFC300", "#BA0000", "#892891", "#4F59DC"]}},
+      "color": {"field": "category", "type": "nominal", "title":"Cheese Type", "scale":{"range":["#D81971", "#FFC300", "#BA0000", "#892891", "#4F59DC"]}},
       "tooltip": [
       {"field": "category", "type": "nominal", "title": "Cheese Category"},
       {"field": "category", "aggregate":"count", "type": "quantitative", "title": "Number Produced for Competition"},
