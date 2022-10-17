@@ -10,7 +10,7 @@
     "height": 450,
     "projection": {"type": "equalEarth"},
     "data": {
-        "url": "https://raw.githubusercontent.com/TheLegend2770/Week10_Homework/main/json/ne_110m.topojson",
+        "url": "https://raw.githubusercontent.com/TheLegend2770/Assignment2_FIT3179/main/json/ne_110m.topojson",
         "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
     },
     "layer":[
@@ -23,7 +23,7 @@
           },
           {
             "data": {
-              "url": "https://raw.githubusercontent.com/TheLegend2770/Week10_Homework/main/json/ne_110m.topojson",
+              "url": "https://raw.githubusercontent.com/TheLegend2770/Assignment2_FIT3179/main/json/ne_110m.topojson",
               "format": {"type": "topojson", "feature": "ne_110m_graticules_30"}
             },
             "mark": {"type": "geoshape", "fill": null, "stroke": "lightgray"}
