@@ -3,7 +3,7 @@
     "title": {"text":"Top 10 Countries That Won Cheese Awards",
     "subtitle":"Figure 1.  The top 10 cheese producing countries are almost entirely of European descent."},
     
-    "data": {"url": "https://raw.githubusercontent.com/TheLegend2770/Week10_Homework/main/data/world_cheese_awards_2021.csv"},    
+    "data": {"url": "https://raw.githubusercontent.com/TheLegend2770/Assignment2_FIT3179/main/data/world_cheese_awards_2021.csv"},    
     "params": [
       {
       "name": "medal_selection",
