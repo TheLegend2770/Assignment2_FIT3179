@@ -45,7 +45,7 @@
             "lookup": "properties.NAME",
             "from": {
                 "data": {
-                    "url": "https://raw.githubusercontent.com/TheLegend2770/FIT3179_Map_HomeworkTask/main/Data/Milk_Consumption_namechange.csv"
+                    "url": "https://raw.githubusercontent.com/TheLegend2770/Assignment2_FIT3179/main/data/Milk_Consumption_namechange.csv"
                   },
                   "key": "country",
                   "fields": ["milkConsume"]
